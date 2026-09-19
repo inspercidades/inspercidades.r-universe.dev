@@ -2,5 +2,9 @@
   {
     "package": "insperplot",
     "url": "https://github.com/inspercidades/insperplot"
+  },
+  {
+    "package": "inspercidados",
+    "url": "https://github.com/inspercidades/inspercidados"
   }
 ]
